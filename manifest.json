@@ -1,0 +1,12 @@
+{
+    "aliases": ["toolwire", "aequation-toolwire"],
+    "bundles": {
+        "Aequation\\ToolwireBundle\\AequationToolwireBundle": ["all"]
+    },
+    "gitignore": [
+        "/tmp/"
+    ],
+    "composer-scripts": {
+        "cache:clear": "symfony-cmd"
+    }
+}
