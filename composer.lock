@@ -12,7 +12,7 @@
             "dist": {
                 "type": "path",
                 "url": "../aew-tools",
-                "reference": "05c7c82bfaac9efc08e45d273f78575559fa8ffc"
+                "reference": "29fdba715b67a7b1df32f4c6e971d77930b4d106"
             },
             "require": {
                 "php": ">=8.3",
