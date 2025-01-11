@@ -52,17 +52,14 @@
     },
     "repositories": [
         {
-            "type": "composer",
-            "url": "https://packagist.org"
-        },
-        {
             "type": "path",
             "url": "../*",
             "options": {
                 "symlink": true,
                 "versions": {
                     "aequation/*": "dev-main"
-                }
+                },
+                "minimum-stability": "stable"
             },
             "canonical": false,
             "only": ["aequation/*"],
